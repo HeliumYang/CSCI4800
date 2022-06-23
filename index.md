@@ -1,5 +1,5 @@
 ---
-title: Marianne and the Bois | CSCI 4800 Term Project
+title: CSCI 4800 Term Project - Summer 2022
 ---
 
 ## Welcome to GitHub Pages
