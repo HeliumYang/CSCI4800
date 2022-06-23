@@ -1,3 +1,7 @@
+---
+title: Marianne and the Bois | CSCI 4800 Term Project
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/HeliumYang/CSCI4800/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
