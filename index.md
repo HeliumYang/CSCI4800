@@ -10,11 +10,11 @@ title: CSCI 4800 Term Project - Summer 2022
 - **Helium Yang**
 - **Mason Young**
 
-## Synopsis
+## **Synopsis**
 
 INSERT SYNOPSIS HERE
 
-### Milestones
+#### Milestones
 
 - [Milestone 1: Problem Proposal](/milestone1.md)
 - [Milestone 2: Definition & Related Work](/milestone2.md)
