@@ -3,7 +3,7 @@ title: Milestone 3 - Design Alternatives
 ---
 
 [[Home]](/index.md)
-## A. User Experience Requirements
+## A. User Experience Requirements:
 
 <div style="background: ghostwhite; 
             padding: 10px; 
@@ -12,7 +12,7 @@ title: Milestone 3 - Design Alternatives
 INSERT A HERE
             </div>
 
-## B. Ideation and Preliminary Designs
+## B. Ideation and Preliminary Designs:
 
 <div style="background: ghostwhite; 
             padding: 10px; 
@@ -21,7 +21,7 @@ INSERT A HERE
 INSERT B HERE
             </div>
 
-## C. Detailed Designs
+## C. Detailed Designs:
 
 <div style="background: ghostwhite; 
             padding: 10px; 
