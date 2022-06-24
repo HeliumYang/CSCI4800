@@ -5,11 +5,11 @@ title: Milestone 1 - Problem Proposal
 [[Home]](/index.md)
 ## Team: Marianne and the Bois
 
-- Marianne Delgato
-- Jacques Lee II
-- Hailey Robinson
-- Helium Yang
-- Mason Young
+- **Marianne Delgato** ([mbd30102@uga.edu](mailto:mbd30102@uga.edu))
+- **Jacques Lee II** ([jbl94835@uga.edu](mailto:jbl94835@uga.edu))
+- **Hailey Robinson** ([hnr14611@uga.edu](mailto:hnr14611@uga.edu))
+- **Helium Yang** ([helium.yang@uga.edu](mailto:helium.yang@uga.edu))
+- **Mason Young** ([mzy22580@uga.edu](mailto:mzy22580@uga.edu))
 
 ## Synopsis
 
