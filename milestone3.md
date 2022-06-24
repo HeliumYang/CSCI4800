@@ -5,26 +5,38 @@ title: Milestone 3 - Design Alternatives
 [[Home]](/index.md)
 ## A. User Experience Requirements
 
-```markdown
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
 INSERT A HERE
-```
+            </div>
 
 ## B. Ideation and Preliminary Designs
 
-```markdown
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
 INSERT B HERE
-```
+            </div>
 
 ## C. Detailed Designs
 
-```markdown
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
 INSERT C HERE
-```
+            </div>
 
 ## D. Summary Video
-```markdown
-EMBED SUMMARY VIDEO HERE
-```
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+[Embed Summary Video HERE]
+            </div>
 
 #### Milestones
 
