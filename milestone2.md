@@ -7,48 +7,69 @@ title: Milestone 2 - Definition & Related Work
 
 1. Introduce your problem.
 
-```markdown
-INSERT A1 HERE
-```
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+[INSERT A1 HERE]
+            </div>
 
 2. Identify your potential users.
 
-```markdown
-INSERT A2 HERE
-```
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+[INSERT A2 HERE]
+            </div>
 
 ## B. Analysis of Existing Solutions
 
 1. Describe existing solutions.
 
-```markdown
-INSERT B1 HERE
-```
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+[INSERT B1 HERE]
+            </div>
 
 2. Describe potential guidelines and solutions.
 
-```markdown
-INSERT B2 HERE
-```
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+[INSERT B2 HERE]
+            </div>
 
 ## C. Proposed Solution
 
 1. Propose a solution.
 
-```markdown
-INSERT C1 HERE
-```
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+[INSERT C1 HERE]
+            </div>
 
 2. How will you measure success?
 
-```markdown
-INSERT C2 HERE
-```
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+[INSERT C2 HERE]
+            </div>
 
 ## D. Summary Video
-```markdown
-EMBED SUMMARY VIDEO HERE
-```
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+[Embed Summary Video HERE]
+            </div>
 
 #### Milestones
 
