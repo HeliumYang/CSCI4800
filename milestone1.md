@@ -4,16 +4,25 @@ title: Milestone 1 - Problem Proposal
 
 [[Home]](/index.md)
 ## Team: Marianne and the Bois
-
-- Marianne Delgato ([mbd30102@uga.edu](mailto:mbd30102@uga.edu))
-- Jacques Lee II ([jbl94835@uga.edu](mailto:jbl94835@uga.edu))
-- Hailey Robinson ([hnr14611@uga.edu](mailto:hnr14611@uga.edu))
-- Helium Yang ([helium.yang@uga.edu](mailto:helium.yang@uga.edu))
-- Mason Young ([mzy22580@uga.edu](mailto:mzy22580@uga.edu))
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+• Marianne Delgato (<a href="mailto:mbd30102@uga.edu" target="_parent">mbd30102@uga.edu</a>)
+• Jacques Lee II (<a href="mailto:jbl94835@uga.edu" target="_parent">jbl94835@uga.edu</a>)
+• Hailey Robinson ([hnr14611@uga.edu](mailto:hnr14611@uga.edu))
+• Helium Yang ([helium.yang@uga.edu](mailto:helium.yang@uga.edu))
+• Mason Young ([mzy22580@uga.edu](mailto:mzy22580@uga.edu))
+            </div>
 
 ## Weekly Meeting Time
 
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
 Thursday at 2:00pm
+            </div>
 
 ## Task/Problem Idenfification
 
