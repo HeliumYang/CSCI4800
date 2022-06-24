@@ -3,7 +3,7 @@ title: Milestone 1 - Problem Proposal
 ---
 
 [[Home]](/index.md)
-## Team: Marianne and the Bois
+## **Team: Marianne and the Bois**
 
 - **Marianne Delgato** ([mbd30102@uga.edu](mailto:mbd30102@uga.edu))
 - **Jacques Lee II** ([jbl94835@uga.edu](mailto:jbl94835@uga.edu))
