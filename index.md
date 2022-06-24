@@ -1,5 +1,5 @@
 ---
-title: CSCI 4800 Term Project - Summer 2022
+title: Home
 ---
 [[Home]](/index.md)
 
