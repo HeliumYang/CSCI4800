@@ -3,19 +3,19 @@ title: Milestone 1 - Problem Proposal
 ---
 
 [[Home]](/index.md)
-## **Team: Marianne and the Bois**
+## Team: Marianne and the Bois
 
-- **Marianne Delgato** ([mbd30102@uga.edu](mailto:mbd30102@uga.edu))
-- **Jacques Lee II** ([jbl94835@uga.edu](mailto:jbl94835@uga.edu))
-- **Hailey Robinson** ([hnr14611@uga.edu](mailto:hnr14611@uga.edu))
-- **Helium Yang** ([helium.yang@uga.edu](mailto:helium.yang@uga.edu))
-- **Mason Young** ([mzy22580@uga.edu](mailto:mzy22580@uga.edu))
+- Marianne Delgato ([mbd30102@uga.edu](mailto:mbd30102@uga.edu))
+- Jacques Lee II ([jbl94835@uga.edu](mailto:jbl94835@uga.edu))
+- Hailey Robinson ([hnr14611@uga.edu](mailto:hnr14611@uga.edu))
+- Helium Yang ([helium.yang@uga.edu](mailto:helium.yang@uga.edu))
+- Mason Young ([mzy22580@uga.edu](mailto:mzy22580@uga.edu))
 
-## **Weekly Meeting Time:**
+## Weekly Meeting Time:
 
 Thursday at 2:00pm
 
-## **Task/Problem Idenfification**
+## Task/Problem Idenfification
 
 UGA forms of communication, such as eLC and Outlook are not very efficient and are very bulky/not accessible, making it hard to group communication, so students have to resort to external chats like GroupMe, which has their own flaws. Students want a form of informal communication This is obvious because we are using third party apps to fill this need. Students want and should be able to network with the other students in their classes and work out issues in these classes. Some issues arise from using these third party apps such as the group messages not including everyone in the class and not being able to group messages by topic.
 eLC seems to have a communication system with "Email" and "Instant Message" through the classlist. However, the designs of both systems are very flawed in their own way. The email system is self contained in a way where you have to operate within the eLC app. You do get an email notification most of the time, but you cannot use your regular email to reply to an eLC email, which makes it prone for messages to get lost by user error. The instant messaging system is first of all, not very accessible. The notifications for the messages are grouped amongst other eLC notifications, rather than having its own tab, making it very hard to keep track of past messages. Although it's possible to send instant messages to multiple recipients, they're not grouped after the messages are sent, making it very difficult to track group communication.
