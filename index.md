@@ -2,7 +2,18 @@
 title: CSCI 4800 Term Project - Summer 2022
 ---
 [[Home]](/index.md)
-## Team: Marianne and the Bois
+
+## Team Name:
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+Marianne and the Bois
+            </div>
+            
+## Team Members:
+
 <div style="background: ghostwhite; 
             padding: 10px; 
             border: 1px solid lightgray; 
