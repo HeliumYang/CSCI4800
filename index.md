@@ -1,7 +1,7 @@
 ---
 title: CSCI 4800 Term Project - Summer 2022
 ---
-
+[[Home]](/index.md)
 ## **Team: Marianne and the Bois**
 
 - **Marianne Delgato**
