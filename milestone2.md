@@ -3,7 +3,7 @@ title: Milestone 2 - Definition & Related Work
 ---
 
 [[Home]](/index.md)
-## A. Task & Problem Identification
+## A. Task & Problem Identification:
 
 <div>
 1. Introduce your problem.
@@ -27,7 +27,7 @@ title: Milestone 2 - Definition & Related Work
 [INSERT A2 HERE]
             </div>
 
-## B. Analysis of Existing Solutions
+## B. Analysis of Existing Solutions:
 
 <div>
 1. Describe existing solutions.
@@ -50,7 +50,7 @@ title: Milestone 2 - Definition & Related Work
 [INSERT B2 HERE]
             </div>
 
-## C. Proposed Solution
+## C. Proposed Solution:
 
 <div>
 1. Propose a solution.
@@ -74,7 +74,7 @@ title: Milestone 2 - Definition & Related Work
 [INSERT C2 HERE]
             </div>
 
-## D. Summary Video
+## D. Summary Video:
 <div style="background: ghostwhite; 
             padding: 10px; 
             border: 1px solid lightgray; 
