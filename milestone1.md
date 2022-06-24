@@ -11,7 +11,7 @@ title: Milestone 1 - Problem Proposal
 - Helium Yang ([helium.yang@uga.edu](mailto:helium.yang@uga.edu))
 - Mason Young ([mzy22580@uga.edu](mailto:mzy22580@uga.edu))
 
-## Weekly Meeting Time:
+## Weekly Meeting Time
 
 Thursday at 2:00pm
 
