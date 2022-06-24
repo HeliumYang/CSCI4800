@@ -26,7 +26,7 @@ Marianne and the Bois
 • Mason Young (<a href="mailto:mzy22580@uga.edu" target="_parent">mzy22580@uga.edu</a>)
             </div>
 
-## Weekly Meeting Time
+## Weekly Meeting Time:
 
 <div style="background: ghostwhite; 
             padding: 10px; 
@@ -35,7 +35,7 @@ Marianne and the Bois
 Thursday at 2:00pm
             </div>
 
-## Task/Problem Idenfification
+## Task/Problem Idenfification:
 
 <div style="background: ghostwhite; 
             padding: 10px; 
