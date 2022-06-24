@@ -1,6 +1,4 @@
----
-title: CSCI 4800 Term Project - Summer 2022
----
+# CSCI 4800 Term Project - Summer 2022
 
 ## Team: Marianne and the Bois
 
