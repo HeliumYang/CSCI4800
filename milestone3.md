@@ -30,7 +30,7 @@ INSERT B HERE
 INSERT C HERE
             </div>
 
-## D. Summary Video
+## D. Summary Video:
 <div style="background: ghostwhite; 
             padding: 10px; 
             border: 1px solid lightgray; 
