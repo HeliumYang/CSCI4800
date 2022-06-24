@@ -3,7 +3,18 @@ title: Milestone 1 - Problem Proposal
 ---
 
 [[Home]](/index.md)
-## Team: Marianne and the Bois
+
+## Team Name:
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+Marianne and the Bois
+            </div>
+            
+## Team Members:
+
 <div style="background: ghostwhite; 
             padding: 10px; 
             border: 1px solid lightgray; 
