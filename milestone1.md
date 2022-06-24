@@ -8,11 +8,11 @@ title: Milestone 1 - Problem Proposal
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-• Marianne Delgato (<a href="mailto:mbd30102@uga.edu" target="_parent">mbd30102@uga.edu</a>)
-• Jacques Lee II (<a href="mailto:jbl94835@uga.edu" target="_parent">jbl94835@uga.edu</a>)
-• Hailey Robinson ([hnr14611@uga.edu](mailto:hnr14611@uga.edu))
-• Helium Yang ([helium.yang@uga.edu](mailto:helium.yang@uga.edu))
-• Mason Young ([mzy22580@uga.edu](mailto:mzy22580@uga.edu))
+• Marianne Delgato (<a href="mailto:mbd30102@uga.edu" target="_parent">mbd30102@uga.edu</a>) <br>
+• Jacques Lee II (<a href="mailto:jbl94835@uga.edu" target="_parent">jbl94835@uga.edu</a>) <br>
+• Hailey Robinson (<a href="mailto:hnr14611@uga.edu" target="_parent">hnr14611@uga.edu</a>) <br>
+• Helium Yang (<a href="mailto:helium.yang@uga.edu" target="_parent">helium.yang@uga.edu</a>) <br>
+• Mason Young (<a href="mailto:mzy22580@uga.edu" target="_parent">mzy22580@uga.edu</a>)
             </div>
 
 ## Weekly Meeting Time
