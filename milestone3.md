@@ -1,5 +1,5 @@
 ---
-title: Milestone 2 - Definition & Related Work
+title: Milestone 3 - Design Alternatives
 ---
 
 [[Home]](/index.md)
