@@ -1,5 +1,5 @@
 ---
-title: Milestone 1/: Problem Proposal
+title: Milestone 1 - Problem Proposal
 ---
 
 [[Home]](/index.md)
