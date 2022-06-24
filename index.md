@@ -12,7 +12,9 @@ title: CSCI 4800 Term Project - Summer 2022
 
 ## Synopsis
 
+```markdown
 INSERT SYNOPSIS HERE
+```
 
 #### Milestones
 
