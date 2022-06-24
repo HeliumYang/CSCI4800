@@ -5,20 +5,29 @@ title: Milestone 4 - Prototyping & Testing
 [[Home]](/index.md)
 ## A. High-Fidelity Prototype
 
-```markdown
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
 INSERT A HERE
-```
+            </div>
 
 ## B. Testing Protocol
 
-```markdown
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
 INSERT B HERE
-```
+            </div>
 
 ## C. Final Summary Video
-```markdown
-EMBED SUMMARY VIDEO HERE
-```
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+[Embed FINAL Summary Video HERE]
+            </div>
 
 #### Milestones
 
