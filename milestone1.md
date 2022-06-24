@@ -1,6 +1,5 @@
----
-title: Milestone 1 - Problem Proposal
----
+# Milestone 1: Problem Proposal
+
 [[Home]](/index.md)
 ## Team: Marianne and the Bois
 
