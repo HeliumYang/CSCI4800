@@ -18,7 +18,6 @@ Thursday at 2:00pm
 ## Task/Problem Idenfification
 
 <div style="background: ghostwhite; 
-            font-size: 20px; 
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
