@@ -3,7 +3,7 @@ title: Milestone 4 - Prototyping & Testing
 ---
 
 [[Home]](/index.md)
-## A. High-Fidelity Prototype
+## A. High-Fidelity Prototype:
 
 <div style="background: ghostwhite; 
             padding: 10px; 
@@ -12,7 +12,7 @@ title: Milestone 4 - Prototyping & Testing
 INSERT A HERE
             </div>
 
-## B. Testing Protocol
+## B. Testing Protocol:
 
 <div style="background: ghostwhite; 
             padding: 10px; 
@@ -21,7 +21,7 @@ INSERT A HERE
 INSERT B HERE
             </div>
 
-## C. Final Summary Video
+## C. Final Summary Video:
 <div style="background: ghostwhite; 
             padding: 10px; 
             border: 1px solid lightgray; 
