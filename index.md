@@ -2,15 +2,15 @@
 title: CSCI 4800 Term Project - Summer 2022
 ---
 [[Home]](/index.md)
-## **Team: Marianne and the Bois**
+## Team: Marianne and the Bois
 
-- **Marianne Delgato**
-- **Jacques Lee II**
-- **Hailey Robinson**
-- **Helium Yang**
-- **Mason Young**
+- Marianne Delgato
+- Jacques Lee II
+- Hailey Robinson
+- Helium Yang
+- Mason Young
 
-## **Synopsis**
+## Synopsis
 
 INSERT SYNOPSIS HERE
 
