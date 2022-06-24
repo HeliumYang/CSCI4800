@@ -25,7 +25,7 @@ Marianne and the Bois
 • Mason Young
             </div>
 
-## Synopsis
+## Synopsis:
 
 <div style="background: ghostwhite; 
             padding: 10px; 
