@@ -31,7 +31,7 @@ Marianne and the Bois
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-[INSERT SYNOPSIS HERE]
+            
             </div>
 
 #### Milestones
