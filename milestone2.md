@@ -29,7 +29,12 @@ title: Milestone 2 - Definition & Related Work
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-Our potential users are students and instructors of UGA that are using eLC for communications.
+            <b>What user population is affected by your problem of study?</b><br>
+            Our potential users are students and instructors of UGA that are using eLC for communications.<br>
+            <b>What related tasks do they perform?</b><br>
+            [TASKS]<br>
+            <b>How would users benefit from a solution (not necessarily your solution) to your problem of study?</b><br>
+            [BENEFIT]
             </div>
 
 ## B. Analysis of Existing Solutions:
