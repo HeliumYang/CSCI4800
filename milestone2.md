@@ -13,7 +13,12 @@ title: Milestone 2 - Definition & Related Work
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-[INSERT A1 HERE]
+            <b>Describe your problem using properties, affordances, and signifiers?</b><br>
+            The problem that we currently have is that the eLC messaging and communication system is bulky and unintuitive for its users.<br>
+            <b>Why is it a problem?</b><br>
+            <br>
+            <b>How is it theme relevant?</b><br>
+            
             </div>
 
 <div>
@@ -24,7 +29,7 @@ title: Milestone 2 - Definition & Related Work
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-[INSERT A2 HERE]
+Our potential users are students and instructors of UGA that are using eLC for communications.
             </div>
 
 ## B. Analysis of Existing Solutions:
