@@ -16,9 +16,9 @@ title: Milestone 2 - Definition & Related Work
             <b>Describe your problem using properties, affordances, and signifiers?</b><br>
             The problem that we currently have is that the eLC messaging and communication system is bulky and unintuitive for its users.<br>
             <b>Why is it a problem?</b><br>
-            <br>
+            [WHY]<br>
             <b>How is it theme relevant?</b><br>
-            
+            [THEME RELEVANT]
             </div>
 
 <div>
