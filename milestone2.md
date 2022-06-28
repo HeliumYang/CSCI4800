@@ -52,7 +52,8 @@ title: Milestone 2 - Definition & Related Work
             border: 1px solid lightgray; 
             margin: 10px;">
             <b>What existing solutions, products, and services currently relate to your problem of study?</b><br>
-            [EXISTING SOLUTIONS]
+            [EXISTING SOLUTIONS]<br>
+            <br>
             <b>Have others already attempted to solve your exact problem or something similar?</b><br>
             [ATTEMPTS]<br>
             <br>
