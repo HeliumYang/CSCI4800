@@ -14,10 +14,10 @@ title: Milestone 2 - Definition & Related Work
             border: 1px solid lightgray; 
             margin: 10px;">
             <b>Describe your problem using properties, affordances, and signifiers?</b><br>
-            The problem that we currently have is that the eLC messaging and communication system is bulky and unintuitive for its users.<br>
+            The problem that we currently have is that the eLC messaging and communication system is bulky and unintuitive for its users. the layout of some of eLC's properties, such as the messaging icon and layout, suggests that it has the messaging function that is similar to that of any other common messaging service, attached to the main appication. In reality, the eLC messaging system lacks affordances such as creating group chats, viewing context of messages, a proper notification system, and more.<br>
             <br>
             <b>Why is it a problem?</b><br>
-            This is a problem, because a lot of the time, sending messages through <br>
+            This is a problem, because a lot of the time, sending messages through eLC is extremely inconvenient, and many students go to third party applications to more easiy communicate with one another. However, there's problems with this approach, as it's very difficult to reach out and include every student in the course along with the possibility that some students just do not want to download a third partyapplication. School-oriented group chats and servers are also often prone to scam and spam bots.<br>
             <br>
             <b>How is it theme relevant?</b><br>
             eLC is a platform used by UGA students and professors alike, and having a well imagined messaging system on the platform rather than something that is confusing to use and leads the students off platform, can allow for the students to better connect with each other and the professor, as everything is integrated into the same platform that the students and professors are required to have in the first place. This ensures that students are not left out when creating class chats, along with the convenience of keeping everything in one place.
