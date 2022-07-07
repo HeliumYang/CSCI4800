@@ -17,10 +17,10 @@ title: Milestone 2 - Definition & Related Work
             The problem that we currently have is that the eLC messaging and communication system is bulky and unintuitive for its users.<br>
             <br>
             <b>Why is it a problem?</b><br>
-            This is a problem, because a lot of the <br>
+            This is a problem, because a lot of the time, sending messages through <br>
             <br>
             <b>How is it theme relevant?</b><br>
-            eLC is a platform used by UGA students and professors alike, and having a well imagined messaging system on the platform rather than something that is confusing to use and leads the students off platform, can allow for the students to better connect with each other and the professor, as everything is integrated into the same platform that the students and professors are required to have in the first place.
+            eLC is a platform used by UGA students and professors alike, and having a well imagined messaging system on the platform rather than something that is confusing to use and leads the students off platform, can allow for the students to better connect with each other and the professor, as everything is integrated into the same platform that the students and professors are required to have in the first place. This ensures that students are not left out when creating class chats, along with the convenience of keeping everything in one place.
             </div>
 
 <div>
