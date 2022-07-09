@@ -35,10 +35,10 @@ title: Milestone 2 - Definition & Related Work
             Our potential users are students and instructors of UGA that are using eLC for communications.<br>
             <br>
             <b>What related tasks do they perform?</b><br>
-            [TASKS]<br>
+            The users send both message and document communication for casual and educational purposes. Users may also want to respond in a comprehensive manner and orginise important messages.<br>
             <br>
             <b>How would users benefit from a solution (not necessarily your solution) to your problem of study?</b><br>
-            [BENEFIT]
+            Users would benefit by increased ease of communication, produstivity and  an increased ability to collaborate remotely.
             </div>
 
 ## B. Analysis of Existing Solutions:
