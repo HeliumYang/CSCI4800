@@ -172,6 +172,15 @@ Many of the successful messaging applications create a dialogue for unusual acti
 [Embed Summary Video HERE]
 </div>
 
+## Citations:
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            [INSERT CITATIONS]
+</div>
+
 #### Milestones
 
 - [Milestone 1: Problem Proposal](/milestone1.md)
