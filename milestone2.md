@@ -53,14 +53,17 @@ title: Milestone 2 - Definition & Related Work
             <br>
             <b>Execution:</b><br>
             • Trigger: The student or professor receives a message from another user, the student has a question about an assignment for the teacher or another student that might not require a formal email.<br>
+            <br>
             • <u>Plan:</u> The user thinks about how they want to communicate to the other student or professor. They have to consider how long the message is, what the formality of the message needs to be, and how soon they need a response.<br>
+            <br>
             • <u>Specify:</u> for a long message to the professor concerning  something important like grades or attendance the user will most likely use email. For contacting other students informally as a group users might use something like GroupMe or Piazza. There is an option to message other students through eLc without having to have prior interaction with that student because of class lists on eLc as well as using outlook because there is a directory with the emails of all students made available. Communicating to other students informally in any other fashion is up to the students to make those connections.<br>
+            <br>
             • <u>Perform:</u> The students makes the appropriate choice of medium of communication and navigates to the group chat for the class or thread with the other student and types out the message. The user will proofread the message quickly before sending it.<br>
             &emsp; ○ Open up eLC, log in.<br>
             &emsp; ○ Navigate to the class you wish to communicate in.<br>
             &emsp; &emsp; > Clicking from home screen.<br>
             &emsp; &emsp; > Clicking the top right applications grid.<br>
-            &emsp;○ Click on Classlist.<br>
+            &emsp; ○ Click on Classlist.<br>
             &emsp; ○ Select people from the checklist.<br>
             &emsp; ○ Click on Instant Message.<br>
             &emsp; ○ Type in message in text box.<br>
@@ -68,7 +71,9 @@ title: Milestone 2 - Definition & Related Work
             <br>
             <b>Evaluation:</b><br>
             • <u>Perception:</u> The message sends and shows up in the thread. The user has to wait and hope for a response in a timely manner.<br>
+            <br>
             • <u>Interpretation:</u> Can the user get a response soon and access and understand the message clearly.<br>
+            <br>
             • <u>Comparison</u> of outcome with goal: The user will compare the process to other interactions they’ve had with other services like text messaging, in person interaction, piazza, groupme, slack, discord etc…<br>
             &emsp; ○ Other third-party programs allow access to IM almost immediately, at a click of a button<br>
             &emsp; ○ The eLC system itself may not be specifically communication between students but it’s meant for relaying information. Why would they hide it so hard?<br>
