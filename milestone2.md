@@ -178,7 +178,13 @@ Many of the successful messaging applications create a dialogue for unusual acti
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            [INSERT CITATIONS]
+            Arifianto, Muhammad Lukman, and Iqbal Fathi Izzudin. “Students' Acceptance of Discord as an Alternative Online Learning Media.” International Journal of Emerging Technologies in Learning, vol. 16, no. 20, 2021, pp. 179–195.<br>
+            <br>
+            Finnegan, Matthew. “Slack Targets Non-Tech Users with UI Design Tweaks.” 18 Mar. 2020, https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,shib&db=bth&AN=142907834&site=eds-live&custid=uga1. Accessed 27 June 2022.<br>
+            <br>
+            Ly, Quang C. “The Case for GroupMe: Rhetorical Thinking Thrives Among Students Using App.” Journal of Literacy & Technology, 2022, pp. 110–158., https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,shib&db=ehh&AN=144943452&site=eds-live&custid=uga1.<br>
+<br>
+            Uddin, Shahadat, et al. “The Impact of Study Load on the Dynamics of Longitudinal Email Communications among Students.” ScienceDirect, Mar. 2014, https://doi.org/10.1016/j.compedu.2013.11.007. Accessed 28 June 2022.
 </div>
 
 #### Milestones
