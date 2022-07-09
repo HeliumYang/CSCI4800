@@ -51,8 +51,8 @@ title: Milestone 2 - Definition & Related Work
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            People utilize other third-party applications for a variety of reasons, each of these applications have their own strengths and weaknesses. 
-
+            People utilize other third-party applications for a variety of reasons, each of these applications have their own strengths and weaknesses.<br>
+            <br>
             <b>GroupMe</b>: This is a chatroom application that is often used to gather students in the same classes, extracurricular organizations, and/or groups together.<br>
             <br>
             When dissecting why this application was chosen, many students claimed that it’s the perfect place to host a “discourse community” – a community of members with shared interests, ideas, languages, and knowledge (Ly 114). But the biggest reason why this application is used in an educational context is because it is “perhaps the easiest and fastest way to send and receive messages” (Ly 131). This is most likely because it is easy to access through handheld phones, instead of eLC’s awkward desktop navigation to the messaging system. Students also perceive GroupMe to be a great place for varying levels of formality. Especially when the GroupMe is composed of just other classmates, the environment is typically more relaxed, casual, and easygoing. Even when students are put into GroupMe chats with instructors, their “formal” messages are still significantly more casual than messages sent through email. It is socially acceptable to respond as sooner or later as other users want. The application strengthens the users’ “ several forms of rhetorical thinking when they compose messages” depending on who is in the GroupMe (Ly 132).<br>
@@ -81,11 +81,23 @@ title: Milestone 2 - Definition & Related Work
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            <b>What guidelines or principles do these solutions, products, and services conform to, either officially or unofficially, if any?</b><br>
-            [GUIDELINES AND PRINCIPLES]<br>
-            <br>
-            <b>What guidelines or principles appropriately serve your users?</b><br>
-            [APPROPRIATE ONES]
+            Strive for consistency
+            Many of the messaging apps are very consistent with how they present themselves for the sake of making it easy for the intended user to adopt. Having the message bar is always on the bottom, the title of the chat on the top, more information and settings showing upon swiping the chat from right to left, and video/voice chat options on the top right corner. This along with the monochrome color scheme and either a “bubble dialogue” setup or a user’s profile picture and username followed by a message in most messaging apps help the client use the application by following common expectations of messaging apps.
+            Seek universal usability.
+If not created for, messaging apps tend to try to expand their audience to anyone that wants to communicate with others. GroupMe markets itself as a universal messaging platform with its simplistic features that does not overwhelm anyone. It also allows for SMS messaging for those without the app, which helped its growth in the earlier days. Discord was originally created as a “chat for gamers” and a replacement for teamspeak, a voice chat software commonly used by multiplayer gaming servers, but are since then adding features that allows for a wider user-base such as creating servers from templaces and rebranding to be a multi-utility, multi-threaded chat.
+            Offer informative feedback
+            When uploading images and files on messaging apps, a small space usually pops up on top of the text box to indicate that the file(s) are staged to be sent. If a message failed to sent, usually the message would show up in a different color, like red or gray, sometimes with an indicator on the side to signify to the user that the message being sent had a problem. Some messaging apps offer a “like” or “reaction” system that allows users to see how the message is perceived, an “edited” tag to indicate that the content has been changed, and/or a “sent/read” receipt to indicate whether or not the message was delivered/seen.
+Design dialogs to yield closure
+Many of the successful messaging applications create a dialogue for unusual actions, such as deleting a message, deleting a group chat, changing settings, etc. so that the user feel a sense of resolution when they perform the action. It’s important that dialogue boxes are only sent out when an unusual action is being done rather than something that is done on a regular basis, such as sending a message, to avoid redundancy.
+            Prevent errors
+            All of the popular messaging programs provide the user with just enough choices so that they cannot inadvertently create an error, or exception in the program.
+            Permit easy reversal of actions
+            Many messaging programs allow the user to delete their messages after it has been sent, which is one of the more surface examples of this. Some of those messaging apps also allow for the users to change settings on a chat, both functionally and for the sake of personalization, whenever they want. This allows for the user to test out which settings work for them without the fear of not being able to change them later, and have the best overall experience.
+            Keep users in control.
+            The amount of controls, especially with the multi-threaded chats are insane, with Discord and Slack having abilities for admins to control user permissions, reacting to messages, pinning, etc. Many of the popular messaging apps at least have settings to customize the user’s experience on the app, if not changing the settings on an entire chat to fit the needs of the client.
+            Reduce short-term memory load
+            Many of the popular messaging apps do not expect you to memorize much information in the short term. This is done with things like the redundancy of placing the title of the group chat or person you are directly messaging everywhere, allowing you to see the time that a message was sent either on screen, or holding and swipin the chat to the side, and allowing the message history display in the background while performing an action.
+
 </div>
 
 ## C. Proposed Solution:
