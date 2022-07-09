@@ -39,7 +39,42 @@ title: Milestone 2 - Definition & Related Work
             <br>
             <b>How would users benefit from a solution (not necessarily your solution) to your problem of study?</b><br>
             Users would benefit by increased ease of communication, produstivity and  an increased ability to collaborate remotely.
-            </div>
+</div>
+
+<div>
+            3. Seven stages of action to describe how to get to messaging system:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            <u>Goal:</u> Send a message to someone from eLC messaging. Be able to access the messaging menu.<br>
+            <br>
+            <b>Execution:</b><br>
+            • Trigger: The student or professor receives a message from another user, the student has a question about an assignment for the teacher or another student that might not require a formal email.<br>
+            • <u>Plan:</u> The user thinks about how they want to communicate to the other student or professor. They have to consider how long the message is, what the formality of the message needs to be, and how soon they need a response.<br>
+            • <u>Specify:</u> for a long message to the professor concerning  something important like grades or attendance the user will most likely use email. For contacting other students informally as a group users might use something like GroupMe or Piazza. There is an option to message other students through eLc without having to have prior interaction with that student because of class lists on eLc as well as using outlook because there is a directory with the emails of all students made available. Communicating to other students informally in any other fashion is up to the students to make those connections.<br>
+            • <u>Perform:</u> The students makes the appropriate choice of medium of communication and navigates to the group chat for the class or thread with the other student and types out the message. The user will proofread the message quickly before sending it.<br>
+            &emsp; ○ Open up eLC, log in.<br>
+            &emsp; ○ Navigate to the class you wish to communicate in.<br>
+            &emsp; &emsp; > Clicking from home screen.<br>
+            &emsp; &emsp; > Clicking the top right applications grid.<br>
+            &emsp;○ Click on Classlist.<br>
+            &emsp; ○ Select people from the checklist.<br>
+            &emsp; ○ Click on Instant Message.<br>
+            &emsp; ○ Type in message in text box.<br>
+            &emsp; ○ Click send.<br>
+            <br>
+            <b>Evaluation:</b><br>
+            • <u>Perception:</u> The message sends and shows up in the thread. The user has to wait and hope for a response in a timely manner.<br>
+            • <u>Interpretation:</u> Can the user get a response soon and access and understand the message clearly.<br>
+            • <u>Comparison</u> of outcome with goal: The user will compare the process to other interactions they’ve had with other services like text messaging, in person interaction, piazza, groupme, slack, discord etc…<br>
+            &emsp; ○ Other third-party programs allow access to IM almost immediately, at a click of a button<br>
+            &emsp; ○ The eLC system itself may not be specifically communication between students but it’s meant for relaying information. Why would they hide it so hard?<br>
+            &emsp; ○ Many extra clicks<br>
+            &emsp; ○ Hidden menus, no quick way from home landing page to get to messaging system
+</div>
 
 ## B. Analysis of Existing Solutions:
 
@@ -81,8 +116,8 @@ title: Milestone 2 - Definition & Related Work
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            Strive for consistency
-            Many of the messaging apps are very consistent with how they present themselves for the sake of making it easy for the intended user to adopt. Having the message bar is always on the bottom, the title of the chat on the top, more information and settings showing upon swiping the chat from right to left, and video/voice chat options on the top right corner. This along with the monochrome color scheme and either a “bubble dialogue” setup or a user’s profile picture and username followed by a message in most messaging apps help the client use the application by following common expectations of messaging apps.
+            <b>Strive for consistency</b><br>
+            Many of the messaging apps are very consistent with how they present themselves for the sake of making it easy for the intended user to adopt. Having the message bar is always on the bottom, the title of the chat on the top, more information and settings showing upon swiping the chat from right to left, and video/voice chat options on the top right corner. This along with the monochrome color scheme and either a “bubble dialogue” setup or a user’s profile picture and username followed by a message in most messaging apps help the client use the application by following common expectations of messaging apps.<br>
             Seek universal usability.
 If not created for, messaging apps tend to try to expand their audience to anyone that wants to communicate with others. GroupMe markets itself as a universal messaging platform with its simplistic features that does not overwhelm anyone. It also allows for SMS messaging for those without the app, which helped its growth in the earlier days. Discord was originally created as a “chat for gamers” and a replacement for teamspeak, a voice chat software commonly used by multiplayer gaming servers, but are since then adding features that allows for a wider user-base such as creating servers from templaces and rebranding to be a multi-utility, multi-threaded chat.
             Offer informative feedback
