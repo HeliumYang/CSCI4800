@@ -169,7 +169,7 @@ Many of the successful messaging applications create a dialogue for unusual acti
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-<iframe width=100% src="https://www.youtube.com/embed/DfAExu61rv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/DfAExu61rv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Citations:
