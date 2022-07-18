@@ -19,7 +19,7 @@ Marianne and the Bois
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-• Marianne Delgato (<a href="mailto:mbd30102@uga.edu" target="_parent">mbd30102@uga.edu</a>) <br>
+• Marianne Delgado (<a href="mailto:mbd30102@uga.edu" target="_parent">mbd30102@uga.edu</a>) <br>
 • Jacques Lee II (<a href="mailto:jbl94835@uga.edu" target="_parent">jbl94835@uga.edu</a>) <br>
 • Hailey Robinson (<a href="mailto:hnr14611@uga.edu" target="_parent">hnr14611@uga.edu</a>) <br>
 • Helium Yang (<a href="mailto:helium.yang@uga.edu" target="_parent">helium.yang@uga.edu</a>) <br>
