@@ -5,12 +5,49 @@ title: Milestone 3 - Design Alternatives
 [[Home]](/index.md)
 ## A. User Experience Requirements:
 
+<div>
+          i. The Brainstorm:
+</div>
+
 <div style="background: ghostwhite; 
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-INSERT A HERE
-            </div>
+            INSERT A HERE
+</div>
+
+<div>
+          1. User Story - Instant Messaging:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            INSERT A HERE
+</div>
+
+<div>
+          2. User Story - Communicating with the Instructors:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            INSERT A HERE
+</div>
+
+<div>
+          3. User Story - Personalization & Settings:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            INSERT A HERE
+</div>
 
 ## B. Ideation and Preliminary Designs:
 
@@ -18,8 +55,8 @@ INSERT A HERE
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-INSERT B HERE
-            </div>
+            INSERT B HERE
+</div>
 
 ## C. Detailed Designs:
 
@@ -27,16 +64,16 @@ INSERT B HERE
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-INSERT C HERE
-            </div>
+            INSERT C HERE
+</div>
 
 ## D. Summary Video:
 <div style="background: ghostwhite; 
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-[Embed Summary Video HERE]
-            </div>
+            [Embed Summary Video HERE]
+</div>
 
 #### Milestones
 
