@@ -17,6 +17,19 @@ title: Milestone 3 - Design Alternatives
 </div>
 
 <div>
+          ii. Brainstorm Images:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            <img src="milestone3_img/us_students.jpg" alt="Brainstorming session in the matrix">
+            <img src="milestone3_img/us_profs.jpg" alt="Brainstorming session in the matrix">
+            
+</div>
+
+<div>
           1. User Story - Instant Messaging:
 </div>
 
