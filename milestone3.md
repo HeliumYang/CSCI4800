@@ -52,7 +52,18 @@ title: Milestone 3 - Design Alternatives
 </div>
 
 <div>
-          3. User Story - Personalization & Settings:
+          3. User Story - Pinning & Marking Messages:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            INSERT A HERE
+</div>
+
+<div>
+          4. User Story - Personalization & Settings:
 </div>
 
 <div style="background: ghostwhite; 
@@ -64,20 +75,94 @@ title: Milestone 3 - Design Alternatives
 
 ## B. Ideation and Preliminary Designs:
 
+<div>
+          1. User Story - Instant Messaging:
+</div>
+
 <div style="background: ghostwhite; 
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT B HERE
+            INSERT A HERE
+</div>
+
+<div>
+          2. User Story - Communicating with the Instructors:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            INSERT A HERE
+</div>
+
+<div>
+          3. User Story - Pinning & Marking Messages:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            INSERT A HERE
+</div>
+
+<div>
+          4. User Story - Personalization & Settings:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            INSERT A HERE
 </div>
 
 ## C. Detailed Designs:
 
+<div>
+          1. User Story - Instant Messaging:
+</div>
+
 <div style="background: ghostwhite; 
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT C HERE
+            INSERT A HERE
+</div>
+
+<div>
+          2. User Story - Communicating with the Instructors:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            INSERT A HERE
+</div>
+
+<div>
+          3. User Story - Pinning & Marking Messages:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            INSERT A HERE
+</div>
+
+<div>
+          4. User Story - Personalization & Settings:
+</div>
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            INSERT A HERE
 </div>
 
 ## D. Summary Video:
