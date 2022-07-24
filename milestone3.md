@@ -88,6 +88,36 @@ title: Milestone 3 - Design Alternatives
             [Embed Summary Video HERE]
 </div>
 
+## Citations:
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            CITATION 1<br>
+            <br>
+            CITATION 2<br>
+            <br>
+            CITATION 3<br>
+            <br>
+            CITATION 4
+</div>
+
+## Figures:
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            FIGURE 1<br>
+            <br>
+            FIGURE 2<br>
+            <br>
+            FIGURE 3<br>
+            <br>
+            FIGURE 4
+</div>
+
 #### Milestones
 
 - [Milestone 1: Problem Proposal](/milestone1.md)
