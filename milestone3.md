@@ -109,9 +109,11 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            FIGURE 1<br>
+            Figure 1 - Syllabus of a professor urging students to use 3rd party platforms like email and Calendly for communication:<br>
+            <img src="milestone3_img/figure_1.jpg" alt="Figure 1"><br>
             <br>
-            FIGURE 2<br>
+            Figure 2 - Screenshot of another professor using Piazza for forum and inquiries:<br>
+            <img src="milestone3_img/figure_2.jpg" alt="Figure 2"><br>
             <br>
             FIGURE 3<br>
             <br>
