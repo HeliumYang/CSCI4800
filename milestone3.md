@@ -161,7 +161,7 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            [Embed Summary Video HERE]
+            <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5GPN6S-26O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 </div>
 
 ## Citations:
