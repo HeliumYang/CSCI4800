@@ -93,7 +93,7 @@ title: Milestone 3 - Design Alternatives
             <br>
             Wireframe 3:<br>
             <br>
-            <img src="milestone3_img/u1b3.jpg" alt="User story 1 - Part B WF 3"><br>
+            <img src="milestone3_img/u1b3.jpg" alt="User story 1 - Part B WF 3">
 </div>
 
 <div>
@@ -104,7 +104,18 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            We decided that redesigning the appearance and notification settings could directly relieve some current issues with the application. With more options for customizing the text styles and display theme, we figured the user could better read the information on the screen. With a more organized settings menu for changing the notifications, we hope that the user will have an easier and quicker experience when responding to messages they have received. Our group looked to successful messaging apps such as GroupMe and Discord for examples of customization that are currently lacking from the eLC messaging platform, and then we decided which features would make the most sense for students communicating with each other. The first wireframe for this user story implements a dark mode and font customization which can help the user interpret their received messages. Adding a dark mode feature to eLC could increase the contrast on the screen, and therefore promote a better interpretation of the content on the screen (Barros). The second wireframe combines notifications and appearance settings so users can more easily navigate to the settings they wish to change. The third wireframe utilizes the same horizontal navigation bar while also combining different sections of the settings menu. 
+            We decided that redesigning the appearance and notification settings could directly relieve some current issues with the application. With more options for customizing the text styles and display theme, we figured the user could better read the information on the screen. With a more organized settings menu for changing the notifications, we hope that the user will have an easier and quicker experience when responding to messages they have received. Our group looked to successful messaging apps such as GroupMe and Discord for examples of customization that are currently lacking from the eLC messaging platform, and then we decided which features would make the most sense for students communicating with each other. The first wireframe for this user story implements a dark mode and font customization which can help the user interpret their received messages. Adding a dark mode feature to eLC could increase the contrast on the screen, and therefore promote a better interpretation of the content on the screen (Barros). The second wireframe combines notifications and appearance settings so users can more easily navigate to the settings they wish to change. The third wireframe utilizes the same horizontal navigation bar while also combining different sections of the settings menu.<br>
+            <br>
+            Wireframe 1:<br>
+            <img src="milestone3_img/u2b1.jpg" alt="User story 2 - Part B WF 1"><br>
+            <br>
+            Wireframe 2:<br>
+            <br>
+            <img src="milestone3_img/u2b2.jpg" alt="User story 2 - Part B WF 2"><br>
+            <br>
+            Wireframe 3:<br>
+            <br>
+            <img src="milestone3_img/u2b3.jpg" alt="User story 2 - Part B WF 3">
 </div>
 
 <div>
