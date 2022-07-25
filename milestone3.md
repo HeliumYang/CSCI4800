@@ -48,7 +48,7 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            We picked reacting to and finding popular and pinned (important messages). We felt like this was an important user story because if the elc messenger is used as an online community for class, important messages could be hard to find. We could not find research into the effectiveness of pinned messages but the fact that most major group messaging services and modern forums have. This list includes discord, Slack, WhatsApp, Reddit, and piazza.
+            We picked reacting to and finding popular and pinned (important messages). We felt like this was an important user story because if the elc messenger is used as an online community for class, important messages could be hard to find. We could not find research into the effectiveness of pinned messages but the fact that most major group messaging services and modern forums have. This list includes Discord, Slack, WhatsApp, Reddit, and Piazza.
 </div>
 
 <div>
