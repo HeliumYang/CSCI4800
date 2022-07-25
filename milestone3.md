@@ -26,7 +26,7 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT A HERE
+            The user we chose for this story is a student at UGA who wishes to use eLC to speak to another classmate within a smaller time frame, specifically to ask about time-sensitive information for a class. The reason why we wanted to tackle this is because of how commonplace instant messaging is, but this type of software is not within eLC’s system. Studies show that “Seventy percent of IM users reported logging into IM every time they are online” (Quan-Haase, “University Students”, 7). People find this type of messaging much more convenient for three reasons. Instant messaging is inexpensive and readily available, flexible (people can multitask) and allows for easy exits of conversation with less awkwardness (Quan-Haase, “University Students”, 17).
 </div>
 
 <div>
@@ -73,7 +73,7 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT A HERE
+            The issue we encountered with the original Instant Messaging in eLC is the fact that it was incredibly inaccessible and people didn’t know it existed. The layout for it was incredibly hard to navigate and poorly designed. In this user story we particularly focused on points of access from the home page, and how we could access the messages page from all over the website. This is because Instant messaging cannot be instant messaging without its sense of convenient “immediacy, interactivity, and availability display” (Quan-Haase, “Instant Messaging on Campus”). Each design includes some way of seeing the notifications from the messages, and a low-fidelity idea for the dedicated messages page.
 </div>
 
 <div>
@@ -120,7 +120,15 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT A HERE
+            The higher-fidelity mockup we decided to use was the one with the filtered notifications, with a slider that can quickly show different types of notifications.<br>
+            <br>
+            [INSERT PROTOTYPE HERE]
+            <br>
+            We thought that this was a unique way to filter the high amount of types of notifications eLC has to offer.<br>
+            <br>
+            For instance, it would show notifications that the user hadn’t read yet, it has better signifiers that show what type of group it is – more on that in a second– and a clear filter switch and “See all…” linke at the bottom that takes the user to the dedicated chat page. In our theoretical approach to different types of groups, we wanted to have group messages that were made by students themselves, individual messages, and also automatically created class text groups that include the professor. Creating these signifiers that show which type of group it is helps dilute the fear of sending something wrong, especially since people often feel pressured to text a certain way. This is especially true if there are strangers or a professor inside the group message (Ly 133-134, 136).<br>
+            <br>
+            We also believed this version of access point to the chat was the best for not destroying the aesthetic of eLC; the notifications retain relatively the same appearance. The chat pin option would be completely different from the rest of the website since it’d constantly be in the front of content that students may be trying to read. The detached chat option could easily distract and detract from the main website itself, and could get lost behind several windows.
 </div>
 
 <div>
