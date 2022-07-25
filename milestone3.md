@@ -52,8 +52,7 @@ title: Milestone 3 - Design Alternatives
 </div>
 
 <div>
-          4. User Story - Communicating with the 
-          nstructors:
+          4. User Story - Communicating with the Instructors:
 </div>
 
 <div style="background: ghostwhite; 
