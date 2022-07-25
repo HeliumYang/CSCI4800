@@ -96,6 +96,7 @@ title: Milestone 3 - Design Alternatives
             border: 1px solid lightgray; 
             margin: 10px;">
             For my wireframes, we took design inspiration from discord because multiple studies recently have found that discord increases student interaction and helps students in situations where they previously would not have been able to get help. In the study by Jorge Ramon 98% of students felt that they got more help using discord than they would have. Features that help facilitate this are a class list organised by people who are online as well as dedicated channels for questions to professors or teaching assistants. My background and text color choices were based on the UGA style guidelines. My font is Meriwether sans the Uga elc font. My popular messages are sorted from most to least popular in the time period.  My pinned messages are sorted with the most recent first for ease of access to recent important messages.<br>
+            <br>
             <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FfdTUgLTDIrKFnDETITwFHu%2Fzach-wireframes%252Frefrence-screenshots%3Fnode-id%3D0%253A1" allowfullscreen>                   </iframe>
 </div>
 
