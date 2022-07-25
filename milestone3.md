@@ -26,7 +26,9 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            The user we chose for this story is a student at UGA who wishes to use eLC to speak to another classmate within a smaller time frame, specifically to ask about time-sensitive information for a class. The reason why we wanted to tackle this is because of how commonplace instant messaging is, but this type of software is not within eLC’s system. Studies show that “Seventy percent of IM users reported logging into IM every time they are online” (Quan-Haase, “University Students”, 7). People find this type of messaging much more convenient for three reasons. Instant messaging is inexpensive and readily available, flexible (people can multitask) and allows for easy exits of conversation with less awkwardness (Quan-Haase, “University Students”, 17).
+            The user we chose for this story is a student at UGA who wishes to use eLC to speak to another classmate within a smaller time frame, specifically to ask about time-sensitive information for a class. The reason why we wanted to tackle this is because of how commonplace instant messaging is, but this type of software is not within eLC’s system. Studies show that “Seventy percent of IM users reported logging into IM every time they are online” (Quan-Haase, “University Students”, 7). People find this type of messaging much more convenient for three reasons. Instant messaging is inexpensive and readily available, flexible (people can multitask) and allows for easy exits of conversation with less awkwardness (Quan-Haase, “University Students”, 17).<br>
+            <br>
+            <img src="milestone3_img/u1a.jpg" alt="User story 1 - Part A">
 </div>
 
 <div>
@@ -37,7 +39,9 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            Our primary focus for this project was on the instant messaging feature in eLC, and we wanted to ensure the users could easily read and respond to messages.  Given that the user is most likely a student at UGA (or otherwise a professor/TA), we figured they would spend copious amounts of time sifting through the web application. While this is mostly true, we also knew from personal experience that very few—if any—students use the instant messaging feature on eLC; most students flock to GroupMe for peer-to-peer communication, so we realized there were some features existent in other IM applications that are lacking from eLC. 
+            Our primary focus for this project was on the instant messaging feature in eLC, and we wanted to ensure the users could easily read and respond to messages.  Given that the user is most likely a student at UGA (or otherwise a professor/TA), we figured they would spend copious amounts of time sifting through the web application. While this is mostly true, we also knew from personal experience that very few—if any—students use the instant messaging feature on eLC; most students flock to GroupMe for peer-to-peer communication, so we realized there were some features existent in other IM applications that are lacking from eLC.<br>
+            <br>
+            <img src="milestone3_img/u2a.jpg" alt="User story 2 - Part A">
 </div>
 
 <div>
@@ -48,7 +52,9 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            We picked reacting to and finding popular and pinned (important messages). We felt like this was an important user story because if the elc messenger is used as an online community for class, important messages could be hard to find. We could not find research into the effectiveness of pinned messages but the fact that most major group messaging services and modern forums have. This list includes Discord, Slack, WhatsApp, Reddit, and Piazza.
+            We picked reacting to and finding popular and pinned (important messages). We felt like this was an important user story because if the elc messenger is used as an online community for class, important messages could be hard to find. We could not find research into the effectiveness of pinned messages but the fact that most major group messaging services and modern forums have. This list includes Discord, Slack, WhatsApp, Reddit, and Piazza.<br>
+            <br>
+            <img src="milestone3_img/u3a.jpg" alt="User story 3 - Part A">
 </div>
 
 <div>
@@ -59,7 +65,9 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT A HERE
+            We decided to pick the user story about the professor having a disconnect with the students, because one of the main functions on eLC is for the instructors of the class to be able to adequately communicate with students in terms of scheduling office hours and answering to questions in a way that’s easy for both the professor and the student. It’s very evident that there is a real issue when it comes to communication between the professor and student, because many instructors are resorting to using alternative platforms for communication. One example is Figure 1, where on a syllabus posted on eLC by a professor of the CSCI department at UGA specifies that any questions will be addressed through email, and office hours scheduled through Calendly, a third party scheduling platform, rather than through eLC. Another example is Figure 2, where Piazza is used for sending forum style questions for professors, TAs, and peers alike to answer.<br>
+            <br>
+            <img src="milestone3_img/u4a.jpg" alt="User story 4 - Part A">
 </div>
 
 ## B. Ideation and Preliminary Designs:
@@ -107,7 +115,18 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT A HERE
+            In all three of my wireframes, we decided to include an option for inquiring solutions from professors and fellow students, and an alternative office hour button to schedule a time with the professor to ask more in depth about what the student needs help with. The inclusion of the forum allows for more instantaneous support, which according to the article by Quan-Hasse, is a efficient and productive way for modern day students to interact with each other and get support from the instructors.<br>
+            <br>
+            INSIMG
+            <br>
+            After brainstorming ideas for the wireframes for this user story, we’ve settled on three. The first we settled on is having the messaging be a page, with a hamburger style scroll on the very left, for the user to choose either a recent conversation or a class, then allow for the user to choose between messaging, scheduling a meeting with a professor, or sending forum style posts for either the professor or the entire class to ask questions about certain assignments.
+The second idea is to allow for a messaging, schedule office hours, and forum style posts to be available as new tabs on eLC. This would allow for minimal changes to the existing platform, keeping the current users from having to relearn how to use eLC.<br>
+            <br>
+            INSIMG
+            <br>
+            The third idea is to allow for the students to be able to send messages to the entire class, request assistance, and schedule for office hours on an assignment page. This allows for the student to easily be able to track which conversations they have had with the professor regarding a specific project, rather than having to dig through the mountain of disorganized messages, and allows for the instructors to have context on what the student is confused about.<br>
+            <br>
+            INSIMG
 </div>
 
 ## C. Detailed Designs:
