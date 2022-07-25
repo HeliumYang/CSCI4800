@@ -182,9 +182,7 @@ The second idea is to allow for a messaging, schedule office hours, and forum st
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            After looking through the wireframes for this specific user story, we’ve decided to move on forward with the third idea. Although our first wireframe design is very logical, it’s very clunky and takes many clicks to navigate. This and having the webpage change so many times – once per click – is very dramatic, and would likely take long to load on slower networks. We decided to ditch the second draft, because we realized that the only reason we had for making the wireframe was to keep the status quo, and that’s not the best way to go. The third design adds feature to a page that was originally very empty, adding more utility to a page that’s otherwise only used for submissions and at times, downloading files for an assignment. This also avoids creating “featuritis” in other pages, where there are already an overwhelming number of tabs and choices. We decided that this, along with the benefits described in part B for this design, is enough for us to proceed with this mockup.<br>
-            <br>
-            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FTIABrpSGLJK5nGGdJ7JbOi%2FPrototype-Part-C---Asking-for-Help%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+            We chose the design with smaller drop-down windows because it was less invasive and pushed readers to use the jump button to automatically move back in the text log. While the pop-up menu design has better ease of access for filter settings, it makes users search messages in a separate window and is much more invasive. The pop-up window also locks the user out of using any other panels, which can be helpful for finding important posts.
 </div>
 
 <div>
@@ -195,7 +193,9 @@ The second idea is to allow for a messaging, schedule office hours, and forum st
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT A HERE
+            After looking through the wireframes for this specific user story, we’ve decided to move on forward with the third idea. Although our first wireframe design is very logical, it’s very clunky and takes many clicks to navigate. This and having the webpage change so many times – once per click – is very dramatic, and would likely take long to load on slower networks. We decided to ditch the second draft, because we realized that the only reason we had for making the wireframe was to keep the status quo, and that’s not the best way to go. The third design adds feature to a page that was originally very empty, adding more utility to a page that’s otherwise only used for submissions and at times, downloading files for an assignment. This also avoids creating “featuritis” in other pages, where there are already an overwhelming number of tabs and choices. We decided that this, along with the benefits described in part B for this design, is enough for us to proceed with this mockup.<br>
+            <br>
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FTIABrpSGLJK5nGGdJ7JbOi%2FPrototype-Part-C---Asking-for-Help%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 </div>
 
 ## D. Summary Video:
