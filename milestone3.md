@@ -210,11 +210,7 @@ title: Milestone 3 - Design Alternatives
             <img src="milestone3_img/figure_1.PNG" alt="Figure 1"><br>
             <br>
             Figure 2 - Screenshot of another professor using Piazza for forum and inquiries:<br>
-            <img src="milestone3_img/figure_2.PNG" alt="Figure 2"><br>
-            <br>
-            FIGURE 3<br>
-            <br>
-            FIGURE 4
+            <img src="milestone3_img/figure_2.PNG" alt="Figure 2">
 </div>
 
 #### Milestones
