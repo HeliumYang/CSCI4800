@@ -262,6 +262,17 @@ The second idea is to allow for a messaging, schedule office hours, and forum st
             <img src="milestone3_img/figure_2.PNG" alt="Figure 2">
 </div>
 
+## Assets & Color Pallets:
+
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+            All assets that were not made by our group are sourced from:
+            > <a href="https://brand.uga.edu/">brand.uga.edu</a>
+            > <a href="https://uga.edu/">uga.edu</a>
+</div>
+
 #### Milestones
 
 - [Milestone 1: Problem Proposal](/milestone1.md)
