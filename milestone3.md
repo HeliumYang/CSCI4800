@@ -165,7 +165,7 @@ The second idea is to allow for a messaging, schedule office hours, and forum st
             margin: 10px;">
             The higher-fidelity mockup we decided to use was the one with the filtered notifications, with a slider that can quickly show different types of notifications.<br>
             <br>
-            [INSERT PROTOTYPE HERE]
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FsU8ikCmeI1ibpL8or8LXMj%2FPrototype-Part-C---Instant-Messaging" allowfullscreen></iframe><br>
             <br>
             We thought that this was a unique way to filter the high amount of types of notifications eLC has to offer.<br>
             <br>
@@ -182,7 +182,9 @@ The second idea is to allow for a messaging, schedule office hours, and forum st
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            After researching successful settings menus, we came to the conclusion that a vertical navigation bar would best aid the users in scrolling and returning to the options they are searching for. Because of this, we decided that wireframe 2 best suits our proposed solution; by combining the layout of wireframe 2 and the text settings in wireframe 1, we believe the user will have more success customizing their messaging experience in eLC. In the journal Issuers in Informing Science and Information Technology, the researchers state “Although the Student-net is highly personalized, 23% of the students performed additional personalization. This is an indication that, regardless of how good automatic personalization is, there is still a need to allow the user to additionally personalize the portal according to his or her individual needs and wishes” (Popovic, 322). Our group concluded that the average user would also value quick access to information and even quicker messaging. By centralizing information and connecting people for meaningful collaboration, online portals can improve efficiency through thoughtful communication (Voth, 2002).
+            After researching successful settings menus, we came to the conclusion that a vertical navigation bar would best aid the users in scrolling and returning to the options they are searching for. Because of this, we decided that wireframe 2 best suits our proposed solution; by combining the layout of wireframe 2 and the text settings in wireframe 1, we believe the user will have more success customizing their messaging experience in eLC. In the journal Issuers in Informing Science and Information Technology, the researchers state “Although the Student-net is highly personalized, 23% of the students performed additional personalization. This is an indication that, regardless of how good automatic personalization is, there is still a need to allow the user to additionally personalize the portal according to his or her individual needs and wishes” (Popovic, 322). Our group concluded that the average user would also value quick access to information and even quicker messaging. By centralizing information and connecting people for meaningful collaboration, online portals can improve efficiency through thoughtful communication (Voth, 2002).<br>
+            <br>
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FgPDw07LgVQQBdJzDD3t91F%2FMockup-Part-C---Personalization-%2526-Settings" allowfullscreen></iframe>
 </div>
 
 <div>
@@ -193,7 +195,9 @@ The second idea is to allow for a messaging, schedule office hours, and forum st
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            We chose the design with smaller drop-down windows because it was less invasive and pushed readers to use the jump button to automatically move back in the text log. While the pop-up menu design has better ease of access for filter settings, it makes users search messages in a separate window and is much more invasive. The pop-up window also locks the user out of using any other panels, which can be helpful for finding important posts.
+            We chose the design with smaller drop-down windows because it was less invasive and pushed readers to use the jump button to automatically move back in the text log. While the pop-up menu design has better ease of access for filter settings, it makes users search messages in a separate window and is much more invasive. The pop-up window also locks the user out of using any other panels, which can be helpful for finding important posts.<br>
+            <br>
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FyFBt3ykcJ9e6a5m2kcCkSE%2FMockup-Part-C---Pinning-%2526-Marking-Messages" allowfullscreen></iframe>
 </div>
 
 <div>
