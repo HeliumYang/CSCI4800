@@ -37,7 +37,7 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT A HERE
+            Our primary focus for this project was on the instant messaging feature in eLC, and we wanted to ensure the users could easily read and respond to messages.  Given that the user is most likely a student at UGA (or otherwise a professor/TA), we figured they would spend copious amounts of time sifting through the web application. While this is mostly true, we also knew from personal experience that very few—if any—students use the instant messaging feature on eLC; most students flock to GroupMe for peer-to-peer communication, so we realized there were some features existent in other IM applications that are lacking from eLC. 
 </div>
 
 <div>
@@ -83,7 +83,7 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT A HERE
+            We decided that redesigning the appearance and notification settings could directly relieve some current issues with the application. With more options for customizing the text styles and display theme, we figured the user could better read the information on the screen. With a more organized settings menu for changing the notifications, we hope that the user will have an easier and quicker experience when responding to messages they have received. Our group looked to successful messaging apps such as GroupMe and Discord for examples of customization that are currently lacking from the eLC messaging platform, and then we decided which features would make the most sense for students communicating with each other. The first wireframe for this user story implements a dark mode and font customization which can help the user interpret their received messages. Adding a dark mode feature to eLC could increase the contrast on the screen, and therefore promote a better interpretation of the content on the screen (Barros). The second wireframe combines notifications and appearance settings so users can more easily navigate to the settings they wish to change. The third wireframe utilizes the same horizontal navigation bar while also combining different sections of the settings menu. 
 </div>
 
 <div>
@@ -139,7 +139,7 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT A HERE
+            After researching successful settings menus, we came to the conclusion that a vertical navigation bar would best aid the users in scrolling and returning to the options they are searching for. Because of this, we decided that wireframe 2 best suits our proposed solution; by combining the layout of wireframe 2 and the text settings in wireframe 1, we believe the user will have more success customizing their messaging experience in eLC. In the journal Issuers in Informing Science and Information Technology, the researchers state “Although the Student-net is highly personalized, 23% of the students performed additional personalization. This is an indication that, regardless of how good automatic personalization is, there is still a need to allow the user to additionally personalize the portal according to his or her individual needs and wishes” (Popovic, 322). Our group concluded that the average user would also value quick access to information and even quicker messaging. By centralizing information and connecting people for meaningful collaboration, online portals can improve efficiency through thoughtful communication (Voth, 2002).
 </div>
 
 <div>
@@ -192,7 +192,12 @@ title: Milestone 3 - Design Alternatives
             Uddin, Shahadat, et al. “The Impact of Study Load on the Dynamics of Longitudinal Email Communications among Students.” ScienceDirect, Mar. 2014, https://doi.org/10.1016/j.compedu.2013.11.007. Accessed 28 June 2022.<br>
             <br>
             Fonseca Cacho, Jorge, "Using Discord to Improve Student Communication, Engagement, and Performance" (2020). UNLV Best Teaching Practices Expo. 95. https://digitalscholarship.unlv.edu/btp_expo/95<br>
-            
+            <br>
+            Popovic, Ales, et al. “Web Triad: The Impact of Web Portals on Quality of Institutions of Higher Education - Case Study of Faculty of Economics, University of Ljubljana, Slovenia.” Issues in Informing Science and Information Technology, Informing Science Institute, 2005, https://www.informingscience.org/Publications/830?Source=%2FJournals%2FIISIT%2FArticles%3FVolume%3D0-0.<br>
+            <br>
+            Voth D. (2002). Why Enterprise Portals are the Next Big Thing. E-learning. October 2002, 25-29<br>
+            <br>
+            Barros, Pedro. “Darkmode and the Benefits for the User Experience.” Venturus, 29 Sept. 2021, https://www.venturus.org.br/en/darkmode-and-the-benefits-for-the-user-experience/#:~:text=According%20to%20a%20survey%20carried,Dark%20Mode%20on%20their%20devices.
 </div>
 
 ## Figures:
