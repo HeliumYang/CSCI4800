@@ -95,9 +95,9 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            For my wireframes, we took design inspiration from discord because multiple studies recently have found that discord increases student interaction and helps students in situations where they previously would not have been able to get help. In the study by Jorge Ramon 98% of students felt that they got more help using discord than they would have. Features that help facilitate this are a class list organised by people who are online as well as dedicated channels for questions to professors or teaching assistants. My background and text color choices were based on the UGA style guidelines. My font is Meriwether sans the Uga elc font. My popular messages are sorted from most to least popular in the time period.  My pinned messages are sorted with the most recent first for ease of access to recent important messages.<br>
+            For our wireframes, we took design inspiration from discord because multiple studies recently have found that discord increases student interaction and helps students in situations where they previously would not have been able to get help. In the study by Jorge Ramon 98% of students felt that they got more help using discord than they would have. Features that help facilitate this are a class list organised by people who are online as well as dedicated channels for questions to professors or teaching assistants. The background, font and text color choices were based on the UGA style guidelines. The popular messages are sorted from most to least popular in the time period.  The pinned messages are sorted with the most recent first for ease of access to recent important messages.<br>
             <br>
-            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FfdTUgLTDIrKFnDETITwFHu%2Fzach-wireframes%252Frefrence-screenshots%3Fnode-id%3D0%253A1" allowfullscreen>                   </iframe>
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F4U99U74RZLcey9L1rMj5sZ%2FWireframes-Part-B---Pinning-%2526-Marking-Messages" allowfullscreen></iframe>
 </div>
 
 <div>
@@ -151,7 +151,9 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT A HERE
+            After looking through the wireframes for this specific user story, we’ve decided to move on forward with the third idea. Although our first wireframe design is very logical, it’s very clunky and takes many clicks to navigate. This and having the webpage change so many times – once per click – is very dramatic, and would likely take long to load on slower networks. We decided to ditch the second draft, because we realized that the only reason we had for making the wireframe was to keep the status quo, and that’s not the best way to go. The third design adds feature to a page that was originally very empty, adding more utility to a page that’s otherwise only used for submissions and at times, downloading files for an assignment. This also avoids creating “featuritis” in other pages, where there are already an overwhelming number of tabs and choices. We decided that this, along with the benefits described in part B for this design, is enough for us to proceed with this mockup.<br>
+            <br>
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FTIABrpSGLJK5nGGdJ7JbOi%2FPrototype-Part-C---Asking-for-Help%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 </div>
 
 <div>
@@ -179,13 +181,19 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            CITATION 1<br>
+            Arifianto, Muhammad Lukman, and Iqbal Fathi Izzudin. “Students' Acceptance of Discord as an Alternative Online Learning Media.” International Journal of Emerging Technologies in Learning, vol. 16, no. 20, 2021, pp. 179–195.<br>
             <br>
-            CITATION 2<br>
+            Finnegan, Matthew. “Slack Targets Non-Tech Users with UI Design Tweaks.” 18 Mar. 2020, https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,shib&db=bth&AN=142907834&site=eds-live&custid=uga1. Accessed 27 June 2022.<br>
             <br>
-            CITATION 3<br>
+            Ly, Quang C. “The Case for GroupMe: Rhetorical Thinking Thrives Among Students Using App.” Journal of Literacy & Technology, 2022, pp. 110–158., https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,shib&db=ehh&AN=144943452&site=eds-live&custid=uga1.<br>
             <br>
-            CITATION 4
+            Quan-Haase, Anabel. “University Students’ Maintenance of Social Ties: Using and Integrating Modes of Communication on Campus.” Conference Papers -- American Sociological Association, 2007 Annual Meeting 2007, p. 1. EBSCOhost, https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,shib&db=sih&AN=34597271&site=eds-live.<br>
+            Quan-Haase, Anabel. “Instant Messaging on Campus: Use and Integration in University Students’ Everyday Communication.” Information Society, vol. 24, no. 2, Apr. 2008, pp. 105–15. EBSCOhost, https://doi.org/10.1080/01972240701883955.<br>
+            <br>
+            Uddin, Shahadat, et al. “The Impact of Study Load on the Dynamics of Longitudinal Email Communications among Students.” ScienceDirect, Mar. 2014, https://doi.org/10.1016/j.compedu.2013.11.007. Accessed 28 June 2022.<br>
+            <br>
+            Fonseca Cacho, Jorge, "Using Discord to Improve Student Communication, Engagement, and Performance" (2020). UNLV Best Teaching Practices Expo. 95. https://digitalscholarship.unlv.edu/btp_expo/95<br>
+            
 </div>
 
 ## Figures:
