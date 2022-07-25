@@ -80,7 +80,20 @@ title: Milestone 3 - Design Alternatives
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            The issue we encountered with the original Instant Messaging in eLC is the fact that it was incredibly inaccessible and people didn’t know it existed. The layout for it was incredibly hard to navigate and poorly designed. In this user story we particularly focused on points of access from the home page, and how we could access the messages page from all over the website. This is because Instant messaging cannot be instant messaging without its sense of convenient “immediacy, interactivity, and availability display” (Quan-Haase, “Instant Messaging on Campus”). Each design includes some way of seeing the notifications from the messages, and a low-fidelity idea for the dedicated messages page.
+            The issue we encountered with the original Instant Messaging in eLC is the fact that it was incredibly inaccessible and people didn’t know it existed. The layout for it was incredibly hard to navigate and poorly designed. In this user story we particularly focused on points of access from the home page, and how we could access the messages page from all over the website. This is because Instant messaging cannot be instant messaging without its sense of convenient “immediacy, interactivity, and availability display” (Quan-Haase, “Instant Messaging on Campus”). Each design includes some way of seeing the notifications from the messages, and a low-fidelity idea for the dedicated messages page.<br>
+            <br>
+            Wireframe 1:<br>
+            <img src="milestone3_img/u1b1.jpg" alt="User story 1 - Part B WF 1"><br>
+            <br>
+            Wireframe 2:<br>
+            <br>
+            <img src="milestone3_img/u1b2-1.jpg" alt="User story 1 - Part B WF 2"><br>
+            <img src="milestone3_img/u1b2-2.jpg" alt="User story 1 - Part B WF 2"><br>
+            <img src="milestone3_img/u1b2-3.png" alt="User story 1 - Part B WF 2"><br>
+            <br>
+            Wireframe 3:<br>
+            <br>
+            <img src="milestone3_img/u1b3.jpg" alt="User story 1 - Part B WF 3"><br>
 </div>
 
 <div>
@@ -117,12 +130,12 @@ title: Milestone 3 - Design Alternatives
             margin: 10px;">
             In all three of my wireframes, we decided to include an option for inquiring solutions from professors and fellow students, and an alternative office hour button to schedule a time with the professor to ask more in depth about what the student needs help with. The inclusion of the forum allows for more instantaneous support, which according to the article by Quan-Hasse, is a efficient and productive way for modern day students to interact with each other and get support from the instructors.<br>
             <br>
-            <img src="milestone3_img/u4b1.jpg" alt="User story 4 - Part B Prototype 1">
+            <img src="milestone3_img/u4b1.jpg" alt="User story 4 - Part B WF 1">
             <br>
             After brainstorming ideas for the wireframes for this user story, we’ve settled on three. The first we settled on is having the messaging be a page, with a hamburger style scroll on the very left, for the user to choose either a recent conversation or a class, then allow for the user to choose between messaging, scheduling a meeting with a professor, or sending forum style posts for either the professor or the entire class to ask questions about certain assignments.
 The second idea is to allow for a messaging, schedule office hours, and forum style posts to be available as new tabs on eLC. This would allow for minimal changes to the existing platform, keeping the current users from having to relearn how to use eLC.<br>
             <br>
-            <img src="milestone3_img/u4b2.jpg" alt="User story 4 - Part B Prototype 2">
+            <img src="milestone3_img/u4b2.jpg" alt="User story 4 - Part B WF 2">
             <br>
             The third idea is to allow for the students to be able to send messages to the entire class, request assistance, and schedule for office hours on an assignment page. This allows for the student to easily be able to track which conversations they have had with the professor regarding a specific project, rather than having to dig through the mountain of disorganized messages, and allows for the instructors to have context on what the student is confused about.<br>
             <br>
