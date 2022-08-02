@@ -58,7 +58,7 @@ title: Milestone 4 - Prototyping & Testing
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT US 4
+            <i>"As a course instructor, I would like for my students to be able to more easily schedule office hours and communicate with instructors and peers alike to clear up confusions in a centralized place."</i>
 </div>
 
 ## B. Testing Protocol:
