@@ -24,7 +24,9 @@ title: Milestone 4 - Prototyping & Testing
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT US 1
+            <i>"As a concerned and confused student, I would like to message a classmate, within a short time frame, to ask about an assignment that is due in the near future."</i><br>
+            <br>
+            XXX
 </div>
 
 <div>
@@ -35,7 +37,9 @@ title: Milestone 4 - Prototyping & Testing
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT US 2
+            <i>"As a student who would like a more personalized visual experience on eLc, I would like to customize my user and display settings so that I can more easily intepret and respond to messages sent through eLC."</i><br>
+            <br>
+            XXX
 </div>
 
 <div>
@@ -46,7 +50,9 @@ title: Milestone 4 - Prototyping & Testing
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            INSERT US 3
+            <i>"As one of many students within a class, I would like to easily navigate to pinned and popular messages within a group chat, and respond to individual messages with reactions and replies."</i><br>
+            <br>
+            XXX
 </div>
 
 
@@ -60,7 +66,7 @@ title: Milestone 4 - Prototyping & Testing
             margin: 10px;">
             <i>"As a course instructor, I would like for my students to be able to more easily schedule office hours and communicate with instructors and peers alike to clear up confusions in a centralized place."</i><br>
             <br>
-            To address this user story, we've developed ---
+            XXX
 </div>
 
 ## B. Testing Protocol:
