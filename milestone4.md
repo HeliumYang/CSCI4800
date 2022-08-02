@@ -6,7 +6,7 @@ title: Milestone 4 - Prototyping & Testing
 ## A. High-Fidelity Prototype:
 
 <div>
-          i. The Prototype
+          1. The Prototype
 </div>
 
 <div style="background: ghostwhite; 
@@ -17,7 +17,7 @@ title: Milestone 4 - Prototyping & Testing
 </div>
             
 <div>
-          1. User Story - Instant Messaging:
+          2a. User Story - Instant Messaging:
 </div>
 
 <div style="background: ghostwhite; 
@@ -30,7 +30,7 @@ title: Milestone 4 - Prototyping & Testing
 </div>
 
 <div>
-          2. User Story - Personalization & Settings:
+          2b. User Story - Personalization & Settings:
 </div>
 
 <div style="background: ghostwhite; 
@@ -43,7 +43,7 @@ title: Milestone 4 - Prototyping & Testing
 </div>
 
 <div>
-          3. User Story - Pinning & Marking Messages:
+          2c. User Story - Pinning & Marking Messages:
 </div>
 
 <div style="background: ghostwhite; 
@@ -57,7 +57,7 @@ title: Milestone 4 - Prototyping & Testing
 
 
 <div>
-          4. User Story - Communicating with the Instructors:
+          2d. User Story - Communicating with the Instructors:
 </div>
 
 <div style="background: ghostwhite; 
