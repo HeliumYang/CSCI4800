@@ -37,7 +37,7 @@ title: Milestone 4 - Prototyping & Testing
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            <i>"As a student who would like a more personalized visual experience on eLc, I would like to customize my user and display settings so that I can more easily intepret and respond to messages sent through eLC."</i><br>
+            <i>"As a student who would like a more personalized visual experience on eLC, I would like to customize my user and display settings so that I can more easily intepret and respond to messages sent through eLC."</i><br>
             <br>
             XXX
 </div>
