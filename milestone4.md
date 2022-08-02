@@ -6,7 +6,7 @@ title: Milestone 4 - Prototyping & Testing
 ## A. High-Fidelity Prototype:
 
 <div>
-          1. The Prototype
+          1. The Prototype:
 </div>
 
 <div style="background: ghostwhite; 
@@ -26,7 +26,7 @@ title: Milestone 4 - Prototyping & Testing
             margin: 10px;">
             <i>"As a concerned and confused student, I would like to message a classmate, within a short time frame, to ask about an assignment that is due in the near future."</i><br>
             <br>
-            With the original instant messaging feature on eLC, we found that many students were unaware of how best to navigate around and would often miss notifications. When trying to quickly contact classmates through the chat, it is crucial for users to intuitively find their messages from any page in the site. To alleviate this pain point within the existing system, we expanded the messages button to display instant messages, and filter them apart from class and email notifications. By utilizing a sliding filter switch, we hoped to sort out the combined list of alerts so that the users could have distinct sections to find exactly what they are searching for. In the context of instant messaging, this could prevent the student form losing their chat messages in a sea of notifications, therefore reducing the time it takes to respond.
+            With the original instant messaging feature on eLC, we found that many students were unaware of how best to navigate around and would often miss notifications. When trying to quickly contact classmates through the chat, it is crucial for users to intuitively find their messages from any page in the site. To alleviate this pain point within the existing system, we expanded the messages button to display instant messages, and filter them apart from class and email notifications. By utilizing a sliding filter switch, we hoped to sort out the combined list of alerts so that the users could have distinct sections to find exactly what they are searching for. In the context of instant messaging, this could prevent the student from losing their chat messages in a sea of notifications, therefore reducing the time it takes to respond. Many students currently flock to alternative messaging applications such as GroupMe for the ability to quickly view and respond to alerts, allowing for an effective way to instantly contact classmates. With this in mind, we believe the reorganization of the notifications will increase engagement with the eLC instant messaging feature, and provide a more complete communication experience for UGA students.
 </div>
 
 <div>
