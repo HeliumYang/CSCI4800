@@ -80,7 +80,53 @@ title: Milestone 4 - Prototyping & Testing
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            
+            <b>Reaserch Question:</b> <i>Does the new eLC messaging platform make communication more efficient for students?</i><br>
+
+<br>
+
+<b>Testing Protocol:</b><br>
+
+&nbsp;Our team decided on testing the new interface using beta testing. This method will be effective because the users will have an opportunity to use the site voluntarily. Testing will be available for everyone to participate in, and we can collect useful survey information straight from the users at the end of the beta testing period. We would release the new interface on the main website at the beginning of the semester. When students access the website, a pop-up will ask them if they would like to try the new eLC experience. Once the user navigates to the new version of the site, there will be a link to the old version of the site on the home page. Our aim is to collect information on how many new users we get to the new site, how many users stay, and how many go back to the old version. Two months after the release, they will be prompted to fill out a survey when they go to the site by a pop-up containing a link. The survey site will tell them the information that we are collecting and request permission to collect this information. Regardless if the user gives permission for the information to be collected, the user will be allowed to take the survey.<br>
+
+<br>
+
+<b>Getting test subjects:</b><br>
+
+<br>
+
+&nbsp;We are hoping to avoid any type of bias in the sample we chose by making the new experience available to all users that navigate to the site and making participation voluntary and not compensated with money or academic advantages.<br>
+
+<br>
+
+<b>Informed consent:</b><br>
+
+<br>
+
+&nbsp;As required by the guidelines set forth by the University of Georgia’s Institutional Review Board and the Bellmont Report, an article that established guidelines for how we now conduct human research, we will get the users’ informed consent to gather and use personal information. According to the Belmont Report, the researchers typically disclose certain items to test subjects to cover most bases of informed consent. “These items generally include: the research procedure, their purposes, risks and anticipated benefits,” and an opportunity to withdraw from the research (Part C: Applications). Before taking the survey that is given to the users two months after the release, the user will be told that all information that is collected will not be information that can be reasonably connected to them.<br>
+
+<br>
+
+<b>Data to be collected and how will it be organized:</b><br>
+
+<br>
+
+&nbsp;When the user decides to go to the new experience, the user will be asked permission for the site to follow how many times the user accesses eLC and if the user is using the old or new experience and will be connected with the user’s UGA ID until the end of the beta testing. The personal information that is collected in the survey will be used to determine whether or not our implementation of the new eLC features are being affected by convenience bias. The personal information that will be taken is age, sex, ethnicity, major, year standing, and grade point average. We will be examining which types of people are benefiting or suffering more than others. We will also be determining if the new experience was significantly helpful in aiding users in communication. The survey questions will ask the user to rate their experience with settings and personalization, group and personal messaging, pinning, marking, liking, and responding to messages, notifications, and usability on a scale from very unsatisfied, unsatisfied, neutral or N/A, satisfied, to very satisfied. Users will be asked if they used third-party messaging alternatives instead of using the new eLC experience during the testing period.<br>
+
+<br>
+
+<b>Safe testing in pandemic and other anticipated issues:</b><br>
+
+<br>
+
+&nbsp;Testing will be done completely online with no reason for users to leave the comfort of their home. There are no specific times or places that the user must be to interact with the site. However, there are other problems we have to look out for. A paper written on a study about traditional software testing methodologies by Barta and Shelly addresses the fall backs of beta testing. Barta and Shelly write about beta testing that “testing conditions are far from controlled,” and “may not be able to reproduce the conditions under which the users are operating, if those conditions are even known (4. User Testing).” The people that stay on the old eLC or try the new one only a couple of times before going back may be a result of users being very used to the old eLC and not wanting to learn how to use a new system. A lot of the people who use the new experience may be underclassmen. In order to avoid biasing in our testing, as we are collecting data we will go over it to make sure we aren’t neglecting blocks of users or collecting too much from another. There are other reasons for bias to look out for in our study like people in certain majors or colleges being more prone to use the new or old eLC.<br>
+
+<br>
+
+<b>Evaluation:</b><br>
+
+<br>
+
+&nbsp;We are going to use the site tracking information to find out who is using the new experience consistently, used it once or a couple times then left, or didn’t start using it at all to find out if users are liking the changes. We will be evaluating the usefulness of our site based off user ratings from the surveys. The personal information will help us find out which users are benefiting the most and if there are any users that are suffering.
             </div>
 
 ## C. Final Summary Video:
@@ -91,6 +137,16 @@ title: Milestone 4 - Prototyping & Testing
             <iframe width="560" height="315" src="https://www.youtube.com/embed/phiFvtycc_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Citations:
+<div style="background: ghostwhite; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+Application of Traditional Software Testing Methodologies to Web Accessibilty W4A '10: Proceedings of the 2010 International Cross Disciplinary Conference on Web Accessibility (W4A)April 2010 Article No.: 11Pages 1–4 https://doi.org/10.1145/1805986.1806002<br>
+<br>
+The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research. [Bethesda, Md.]: The Commission, 1978.
+</div>
+          
 #### Milestones
 
 - [Milestone 1: Problem Proposal](/milestone1.md)
