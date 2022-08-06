@@ -80,7 +80,7 @@ title: Milestone 4 - Prototyping & Testing
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-            I
+            
             </div>
 
 ## C. Final Summary Video:
